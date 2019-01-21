@@ -1,0 +1,73 @@
+body {
+  background: #21232d;
+}
+
+.h {
+  margin-left:200px;
+  margin-top: 10px;
+  color: floralwhite;
+  font-family: Futura, Alte, Helvetica, sans-serif !important;
+  font-size: 45px;
+}
+
+.bar {
+  horiz-align: center;
+  margin-top: -50px;
+  padding: 50px;
+  color: floralwhite !important;
+  font-family: Futura, Alte, Helvetica, sans-serif !important;
+  font-size: 15px;
+}
+
+.bar2 {
+  horiz-align: center;
+  margin-top: -80px;
+  padding: 50px;
+  color: floralwhite !important;
+  font-family: Futura, Alte, Helvetica, sans-serif !important;
+  font-size: 15px;
+}
+
+.footer {
+  margin-top: -30px;
+  margin-left: 50px;
+}
+
+.js-name, .js-price-by-person, .js-price-by-hour, .js-time, .js-persons {
+  background: lightgrey;
+  border: none;
+}
+
+img{
+  margin: 30px auto;
+}
+
+.option {
+  color: floralwhite;
+  margin-top: -30px;
+  margin-left: 50px;
+  font-family: Futura, Alte, Helvetica, sans-serif !important;
+  font-size: 15px;
+}
+
+.btn {
+  display: inline-block;
+  border-radius: 10px;
+  background-color: #57a889;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  cursor: pointer;
+  margin: 50px auto 20px 200px;
+}
+
+.disp {
+  margin-left: 50px;
+  margin-top: 10px;
+  color: floralwhite;
+  font-family: "inconsolata", "Source Sans Pro", Helvetica, sans-serif !important;
+  font-size: 16px;
+}
